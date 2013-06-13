@@ -1,7 +1,9 @@
 {
     "name": "agroterra/google-api-php",
     "type": "library",
-    "description": "PHP Client for Google APIs",    
+    "description": "PHP Client for Google APIs",  
+    "homepage": "https://github.com/agroterra/google-api-php",
+    "license": "Apache 2.0",    
     "authors": [    
         {
             "name": "Google",
